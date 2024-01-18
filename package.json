@@ -1,0 +1,21 @@
+{
+  "name": "self-gulux",
+  "version": "1.0.0",
+  "description": "尝试编写简易的gulux",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts",
+    "test": "test"
+  },
+  "author": "xuxiaoqiang",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "querystring": "^0.2.1",
+    "reflect-metadata": "^0.2.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.8"
+  }
+}

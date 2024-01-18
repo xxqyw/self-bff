@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "src": ["./src/"]
+    },
+    "target": "es2017",
+    "types": ["reflect-metadata", "node"],
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  }
+}
